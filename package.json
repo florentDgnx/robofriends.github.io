@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://florentDgnx.github.io/robofriends",
+  "homepage": "https://florentDgnx.github.io/robofriends.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
