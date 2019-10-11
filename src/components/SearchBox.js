@@ -5,6 +5,7 @@ class SearchBox extends Component {
     return (
       <div id="searchBox" className="pa2">
         <input
+          id="searchInput"
           aria-label="Search Robot"
           className={"pa3 ba b--green bg-lightest-blue"}
           type="search"
