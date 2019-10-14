@@ -8,12 +8,4 @@ describe("test searchBox component", () => {
       shallow(<SearchBox value={"mock value"} onChange={() => {}} />)
     ).toMatchSnapshot();
   });
-
-  // it("expect change input", () => {
-  //   const wrapper = shallow(<SearchBox searchField="" />);
-  //   const input = wrapper.find('[id="searchInput"]');
-  //   input.simulate("keypress", { key: ["t"] });
-  //   console.log(input.props());
-  //   expect(input.props().value).toEqual("t");
-  // });
 });
